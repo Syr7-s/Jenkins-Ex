@@ -6,4 +6,4 @@ It should be triggered by any change
 "Even Test" 
 
 
-![Build Status](http://localhost:8080/buildStatus/icon?job=libraries)](http://localhost:8080/job/libraries/)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=libraries)](http://localhost:8080/job/libraries/)
